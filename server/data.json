@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "fullName": "debjit",
+        "age": 17,
+        "isAlive": true
+    },
+    {
+        "id": 2,
+        "fullName": "Malik",
+        "age": 19,
+        "isAlive": true
+    }
+]
